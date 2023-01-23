@@ -3,7 +3,7 @@
 * This repository over time will hopefully contain various items designed to streamline installation or setup operations with the overall intent to automate repeatable tasks.
 * How-To Instructions: Make sure you have 'git' installed (likely the case but be sure), then 'cd' to a folder or directory of your choice and run this in your console:
 ```
-git clone https://github.com/hexpanther/scripts.git
+git clone https://github.com/land-fisher/scripts.git
 ```
 * You will see a new '/scripts' directory created, switch to that directory and then run the 'setup' script first:
 ```
