@@ -1,4 +1,4 @@
-# Utilities for Automating Repeatable Processes
+# Utilities for Automating Repeatable Things
 
 ## Description, Installation, and Usage
 **Disclaimer/Caveat:** These scripts are miscellaneous experimental utilities written for Linux desktop/server environments and intended for _personal_ use ONLY.  **Use at your own risk.**
