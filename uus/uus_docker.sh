@@ -1,6 +1,9 @@
 #!/bin/bash
 # Ubuntu Utility Setup (UUS): Docker Desktop
 
+# Update all snap packages
+sudo snap refresh
+
 # Docker runtime installation
 sudo snap install docker
 
